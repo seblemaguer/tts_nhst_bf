@@ -1,0 +1,5 @@
+.R[a-zA-Z]*
+output/
+log/
+prepared_datasets/
+__pycache__/

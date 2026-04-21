@@ -1,0 +1,6 @@
+input_file	expe_id	score_name	wih_audio	ignore_step
+prepared_datasets/MOS/bttf.tsv	only_dnn	MOS	True	False
+prepared_datasets/MUSHRA/bttf.tsv	only_dnn	MUSHRA	False	True
+prepared_datasets/Ranking/bttf.tsv	only_dnn	Ranking	False	True
+prepared_datasets/MOS/BC2025_naturalness.tsv	2025_naturalness	MOS	False	False
+prepared_datasets/MOS/BC2025_listening_effort.tsv	2025_listening_effort	MOS	False	False
